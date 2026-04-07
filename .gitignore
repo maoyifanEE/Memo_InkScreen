@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Temp / backup
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Arduino local cache / generated
+*.elf
+*.bin
+*.hex
+*.map
+
+# macOS metadata
+._*
+
+# Optional: if you manually create build folders
+build/
+dist/
+out/
