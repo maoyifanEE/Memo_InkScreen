@@ -1,0 +1,8 @@
+{
+  "arduino_cli_path": "C:\\Users\\maoyi\\AppData\\Local\\Programs\\Arduino IDE\\resources\\app\\lib\\backend\\resources\\arduino-cli.exe",
+  "esp32_project_dir": "C:\\Users\\maoyi\\Desktop\\memo\\memo_code\\esp32",
+  "fqbn": "esp32:esp32:esp32",
+  "serial_port": "COM4",
+  "temp_build_root": "C:\\Users\\maoyi\\Desktop\\memo\\memo_code\\py\\work_v7\\generated",
+  "serial_baud": "115200"
+}
